@@ -5,7 +5,9 @@
 ## Usage
 Projects, or just to have fun!
 
-## How to install
+## How to use
+```git clone https://github.com/okdill/GroqAIConsole.git```
+```cd GroqAIConsole```
 ```pip install groq``` 
 ```py main.py```
 
