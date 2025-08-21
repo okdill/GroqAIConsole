@@ -1,5 +1,7 @@
 # GroqAIConsole
 
+![Python](https://img.shields.io/badge/Language-Python-blue) ![Console](https://img.shields.io/badge/Platform-PC-blue)
+
 ## Usage
 Projects, or just to have fun!
 
@@ -9,4 +11,4 @@ Projects, or just to have fun!
 
 ## How to get key
 
-https://groq.com make an account and generate your api key. Its free!
+[go to groq](https://groq.com) make an account and generate your api key. Its free!
